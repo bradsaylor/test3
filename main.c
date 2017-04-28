@@ -10,7 +10,7 @@
 #include <stdint.h>
 #include "Int_lcd_spi.h"
 #include "Int_SPI_pic.h"
-//blah blah
+//blah blah 2
 
 int main(void) {
 SPI_init();
